@@ -1,2 +1,2 @@
 # comp2
-Laboratórios de computação 2 em java (segundo período).
+Laboratórios e prova de computação 2 em java (segundo período).
